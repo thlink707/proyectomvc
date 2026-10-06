@@ -1,0 +1,21 @@
+# Archivos de configuración con credenciales sensibles o locales
+config.local.php
+.env
+
+# Dependencias y paquetes de Composer (si llegas a usarlos)
+/vendor/
+
+# Archivos de entorno de editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+/tmp/
+/cache/
